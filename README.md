@@ -2,7 +2,7 @@
 I'm a Java developer who specializes in Minecraft plugin development
 
 ![Chubbyduck1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubbyduck1&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubbyduck1)](https://github.com/Chubbyduck1/Chubbyduck1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StormTechnology)](https://github.com/Chubbyduck1/Chubbyduck1)
 
 # Some Of My Open-Source Projects
 [![Hologram Bridge](https://github-readme-stats.vercel.app/api/pin/?username=StormTechnology&repo=HologramBridge)](https://github.com/StormTechnology/HologramBridge)
