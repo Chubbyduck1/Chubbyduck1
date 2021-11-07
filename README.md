@@ -1,4 +1,7 @@
-### 👋 I'm Chubbyduck1! ![](https://komarev.com/ghpvc/?username=Chubbyduck1)
+### 👋 I'm Chubbyduck1! ![](https://komarev.com/ghpvc/?username=Chubbyduck1)<br>
+I'm a Java developer who specializes in Minecraft plugin development
+
+![Chubbyduck1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubbyduck1&count_private=true)
 
 <!--
 **Chubbyduck1/Chubbyduck1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
