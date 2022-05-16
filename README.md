@@ -7,5 +7,8 @@ I'm a Java developer who specializes in Minecraft plugin development, and ocassi
  * [Optimal Games (Owner & Dev)](https://discord.gg/optimal) - A Minecraft Development pre-made plugin supplier
  * [PvPCade (Owner & Dev)](https://discord.gg/pvpcade) - A Minecraft Server in Development
 
+# My Skills
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,git,docker,html,css)](https://skillicons.dev)
+
 # Contact
 You can contact me on discord at: `Chubbyduck1#0001` (ID: 853011848810594304), or you can email me: `contact@optimalgames.gg`
