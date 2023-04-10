@@ -1,4 +1,4 @@
-### 👋 I'm Chubbyduck1! ![](https://komarev.com/ghpvc/?username=Chubbyduck1)<br>
+## 👋 I'm Chubbyduck1! ![](https://komarev.com/ghpvc/?username=Chubbyduck1)<br>
 I'm a Java developer who specializes in Minecraft plugin development, and ocassionally takes Freelance work on servers.
 
 ![Chubbyduck1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chubbyduck1&count_private=true&show_icons=true&theme=github_dark_dimmed)
