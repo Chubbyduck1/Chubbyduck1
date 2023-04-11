@@ -14,7 +14,7 @@ I'm a Java developer who specializes in Minecraft plugin development, and ocassi
 [![HologramBridge](https://github-readme-stats.vercel.app/api/pin/?username=Chubbyduck1&repo=HologramBridge&show_owner=true&theme=github_dark_dimmed)](https://github.com/Chubbyduck1/HologramBridge)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubbyduck1&theme=github_dark_dimmed&hide=html,css))](https://github.com/Chubbyduck1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chubbyduck1&theme=github_dark_dimmed&hide=html,css)](https://github.com/Chubbyduck1)
 
 # Contact
 You can contact me on discord at: `Chubbyduck1#0001` (ID: 853011848810594304), or you can email me: `contact@optimalgames.gg`
