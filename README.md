@@ -8,6 +8,11 @@
 <br>
 ✉️ Reach me directly via email at Chubbyduck1@proton.me
 
+## Current Projects
+
+- Lead Developer and Owner of Tycoons.gg
+- Lead Developer and Owner of https://MineTools.net
+
 ---
 
 ## 🛠️ Tech Stack
